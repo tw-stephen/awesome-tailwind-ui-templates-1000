@@ -1,0 +1,24 @@
+# Awesome Tailwind UI Templates 1000
+
+Last updated: 2026-04-14
+
+## Summary (English)
+Awesome Tailwind UI Templates 1000 is a static collection of Tailwind CSS components and page templates. It focuses on reusable frontend patterns, responsive layout ideas, and quick-start UI building blocks.
+
+## Summary (Traditional Chinese)
+Awesome Tailwind UI Templates 1000 是一個靜態前端模板集合，收錄 Tailwind CSS 元件與頁面版型，適合作為 UI 靈感與快速開發起點。
+
+## Summary (Japanese)
+Awesome Tailwind UI Templates 1000 は、Tailwind CSS ベースの UI テンプレート集です。再利用しやすいフロントエンド部品とページレイアウトをまとめています。
+
+## Key Pages
+- / : project landing page
+- /llms.txt : AI-readable summary
+- /sitemap.xml : full crawl map
+- /news-sitemap.xml : recently refreshed pages
+
+## Topics
+- Tailwind CSS templates
+- UI components
+- Responsive frontend layouts
+- AI-friendly UI building blocks
